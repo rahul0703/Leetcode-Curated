@@ -3,6 +3,10 @@ List of Best Leetcode Question
 
 #### Pattern : {Concept : Link}
 
+## Arrays
+### 2D array
+Sorting and Comparing: https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
+
 ## Graph
 ### DFS
 Boundry Travel DFS: https://leetcode.com/problems/number-of-enclaves/?envType=study-plan&id=graph-i
