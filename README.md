@@ -7,6 +7,9 @@ List of Best Leetcode Question
 ### 2D array
 1. Sorting and Comparing: https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
 
+## Stack
+1. Previous and Next Greater-Smaller: https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
+
 ## String
 1. Sliding Window: https://leetcode.com/problems/permutation-in-string/
 
