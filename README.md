@@ -9,6 +9,7 @@ List of Best Leetcode Question
 
 ## Stack
 1. Previous and Next Greater-Smaller: https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
+2. Solve the Inflix Expression (See Geekster Soln): https://leetcode.com/problems/basic-calculator/ 
 
 ## String
 1. Sliding Window: https://leetcode.com/problems/permutation-in-string/
