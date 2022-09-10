@@ -20,6 +20,7 @@ List of Best Leetcode Question
 ### BFS
 1. Multiple node BFS travel simultaneously (Level Order Traversal): https://leetcode.com/problems/as-far-from-land-as-possible/?envType=study-plan&id=graph-i
 2. Multiple node BFS traverasal with DFS (Level Order Traversal with DFS): https://leetcode.com/problems/shortest-bridge/?envType=study-plan&id=graph-i
+3. Simple Distance Calculation using BFS: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 
 
 ## Dynamic Programming
