@@ -17,6 +17,7 @@ List of Best Leetcode Question
 ## Graph
 ### DFS
 1. Boundry Travel DFS: https://leetcode.com/problems/number-of-enclaves/?envType=study-plan&id=graph-i
+2. Finding and Printing all Path from SRC to DES: https://leetcode.com/problems/all-paths-from-source-to-target/
 ### BFS
 1. Multiple node BFS travel simultaneously (Level Order Traversal): https://leetcode.com/problems/as-far-from-land-as-possible/?envType=study-plan&id=graph-i
 2. Multiple node BFS traverasal with DFS (Level Order Traversal with DFS): https://leetcode.com/problems/shortest-bridge/?envType=study-plan&id=graph-i
