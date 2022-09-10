@@ -6,6 +6,7 @@ List of Best Leetcode Question
 ## Arrays
 ### 2D array
 1. Sorting and Comparing: https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
+2. Sorted-prefix-sum implementation: https://leetcode.com/problems/longest-subsequence-with-limited-sum/
 
 ## Stack
 1. Previous and Next Greater-Smaller: https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
