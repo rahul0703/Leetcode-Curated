@@ -12,6 +12,10 @@ List of Best Leetcode Question
 1. Previous and Next Greater-Smaller: https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
 2. Solve the Inflix Expression (See Geekster Soln): https://leetcode.com/problems/basic-calculator/ 
 
+## Heap/PriorityQueue
+1. Seems like DP TargetSum but it is not: https://leetcode.com/problems/maximum-performance-of-a-team/
+2. 
+
 ## String
 1. Sliding Window: https://leetcode.com/problems/permutation-in-string/
 2. Join Number to make Largest (Comparator useage): https://leetcode.com/problems/largest-number/
