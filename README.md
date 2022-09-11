@@ -14,6 +14,7 @@ List of Best Leetcode Question
 
 ## String
 1. Sliding Window: https://leetcode.com/problems/permutation-in-string/
+2. Join Number to make Largest (Comparator useage): https://leetcode.com/problems/largest-number/
 
 ## Greedy
 1. Circular Gas Station fill: https://leetcode.com/problems/gas-station/
