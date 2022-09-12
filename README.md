@@ -8,6 +8,9 @@ List of Best Leetcode Question
 1. Sorting and Comparing: https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
 2. Sorted-prefix-sum implementation: https://leetcode.com/problems/longest-subsequence-with-limited-sum/
 
+### Prefix-Suffix-Sum
+1. Prefix-Suffix-Sum with Binary Search: https://leetcode.com/problems/bag-of-tokens/
+
 ## Stack
 1. Previous and Next Greater-Smaller: https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
 2. Solve the Inflix Expression (See Geekster Soln): https://leetcode.com/problems/basic-calculator/ 
