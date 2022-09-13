@@ -25,6 +25,7 @@ List of Best Leetcode Question
 
 ## Greedy
 1. Circular Gas Station fill: https://leetcode.com/problems/gas-station/
+2. Greedy approach with Stack (remove duplicate to make lexeco smallest): https://leetcode.com/problems/remove-duplicate-letters/submissions/
 
 ## Graph
 ### DFS
