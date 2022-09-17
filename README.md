@@ -27,6 +27,10 @@ List of Best Leetcode Question
 1. Circular Gas Station fill: https://leetcode.com/problems/gas-station/
 2. Greedy approach with Stack (remove duplicate to make lexeco smallest): https://leetcode.com/problems/remove-duplicate-letters/submissions/
 
+## Tree
+### N-Array Tree
+1. Construct Tree from array and apply max-sum: https://leetcode.com/problems/time-needed-to-inform-all-employees/?envType=study-plan&id=graph-i
+
 ## Graph
 ### DFS
 1. Boundry Travel DFS: https://leetcode.com/problems/number-of-enclaves/?envType=study-plan&id=graph-i
