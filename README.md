@@ -36,6 +36,7 @@ List of Best Leetcode Question
 1. Boundry Travel DFS: https://leetcode.com/problems/number-of-enclaves/?envType=study-plan&id=graph-i
 2. Finding and Printing all Path from SRC to DES: https://leetcode.com/problems/all-paths-from-source-to-target/
 3. Finding No of edges, nodes in individual component and no of components in graph implementation: https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+4. Directed Graph DFS: https://leetcode.com/problems/find-eventual-safe-states/
 ### BFS
 1. Multiple node BFS travel simultaneously (Level Order Traversal): https://leetcode.com/problems/as-far-from-land-as-possible/?envType=study-plan&id=graph-i
 2. Multiple node BFS traverasal with DFS (Level Order Traversal with DFS): https://leetcode.com/problems/shortest-bridge/?envType=study-plan&id=graph-i
