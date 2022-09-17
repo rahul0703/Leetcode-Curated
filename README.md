@@ -50,3 +50,6 @@ List of Best Leetcode Question
 
 ## Dynamic Programming
 1. 2D DP InterLeaving String: https://leetcode.com/problems/interleaving-string/
+
+## Trie 
+1. Palindromic Pair from Array (Trie + HashMap): https://leetcode.com/problems/palindrome-pairs/
