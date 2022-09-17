@@ -46,6 +46,8 @@ List of Best Leetcode Question
 1. Single src shortest + Bipartite Graph + minimumIncreasingSubsequence: https://leetcode.com/problems/shortest-path-with-alternating-colors/
 ### Floyd Warshall (all src shortest)
 1. Shortest Path Visiting All Nodes: https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+### Bipartite Graph
+1. Is Barpartite: https://leetcode.com/problems/is-graph-bipartite/
 
 
 ## Dynamic Programming
