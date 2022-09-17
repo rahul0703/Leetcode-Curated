@@ -43,7 +43,9 @@ List of Best Leetcode Question
 3. Simple Distance Calculation using BFS: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 4. Edges Replacement: https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 ### Bellman Ford Algorithm
-1. Single src shortest + minimumIncreasingSubsequence: https://leetcode.com/problems/shortest-path-with-alternating-colors/
+1. Single src shortest + Bipartite Graph + minimumIncreasingSubsequence: https://leetcode.com/problems/shortest-path-with-alternating-colors/
+### Floyd Warshall (all src shortest)
+1. Shortest Path Visiting All Nodes: https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 
 
 ## Dynamic Programming
