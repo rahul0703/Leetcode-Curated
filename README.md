@@ -41,6 +41,7 @@ List of Best Leetcode Question
 1. Multiple node BFS travel simultaneously (Level Order Traversal): https://leetcode.com/problems/as-far-from-land-as-possible/?envType=study-plan&id=graph-i
 2. Multiple node BFS traverasal with DFS (Level Order Traversal with DFS): https://leetcode.com/problems/shortest-bridge/?envType=study-plan&id=graph-i
 3. Simple Distance Calculation using BFS: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+4. Edges Replacement: https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 ### Bellman Ford Algorithm
 1. Single src shortest + minimumIncreasingSubsequence: https://leetcode.com/problems/shortest-path-with-alternating-colors/
 
