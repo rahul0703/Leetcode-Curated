@@ -3,6 +3,10 @@ List of Best Leetcode Question
 
 #### Pattern : {Concept : Link}
 
+## Maths
+### GCD/LCM problem
+1. Water Jug Problem: https://leetcode.com/problems/water-and-jug-problem/
+
 ## Arrays
 ### 2D array
 1. Sorting and Comparing: https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
