@@ -59,3 +59,6 @@ List of Best Leetcode Question
 
 ## Trie 
 1. Palindromic Pair from Array (Trie + HashMap): https://leetcode.com/problems/palindrome-pairs/
+
+## Bit Manupulation
+1. Simple Bit-Maths but tricky: https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
