@@ -6,6 +6,7 @@ List of Best Leetcode Question
 ## Maths
 ### GCD/LCM problem
 1. Water Jug Problem: https://leetcode.com/problems/water-and-jug-problem/
+2. Simple array and count: https://leetcode.com/problems/push-dominoes/
 
 ## Arrays
 ### 2D array
